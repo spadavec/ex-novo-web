@@ -1,0 +1,19 @@
+{
+  "name": "ex-novo-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thismax/ex-novo-web.git"
+  },
+  "author": "Max Jacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thismax/ex-novo-web/issues"
+  },
+  "homepage": "https://github.com/thismax/ex-novo-web#readme"
+}
